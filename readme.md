@@ -11,6 +11,6 @@ Dadoteko lahko odprete v urejevalniku besedil po vaši izbiri, priporočam pa sp
 
 ## Markdown pravila
 
-[Osnovna pravila](https://www.markdownguide.org/basic-syntax)
-[Simboli grških črk](https://www.latex-tutorial.com/symbols/greek-alphabet/)
-[Matematične operacije](https://en.wikibooks.org/wiki/LaTeX/Mathematics#Multiplication_of_two_numbers)
+* [Osnovna pravila](https://www.markdownguide.org/basic-syntax)
+* [Simboli grških črk](https://www.latex-tutorial.com/symbols/greek-alphabet/)
+* [Matematične operacije](https://en.wikibooks.org/wiki/LaTeX/Mathematics#Multiplication_of_two_numbers)
